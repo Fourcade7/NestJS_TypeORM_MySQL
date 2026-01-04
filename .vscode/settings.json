@@ -1,0 +1,18 @@
+{
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "src/app.controller.spec.ts": true,
+        "src/user/user.controller.spec.ts": true,
+        "src/user/user.service.spec.ts": true
+    },
+    "hide-files.files": [
+        "src/app.controller.spec.ts",
+        "src/user/user.controller.spec.ts",
+        "src/user/user.service.spec.ts"
+    ]
+}
